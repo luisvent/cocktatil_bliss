@@ -1,10 +1,16 @@
 # Cocktail Bliss
 
-https://apps.apple.com/app/id6450579191
-
-**Created and Develop by Luis Ventura (luis.ventura005@gmail.com)**
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6450579191)
 
 Discover the art of mixology with Cocktail Bliss, the stunning app to elevate your cocktail experience to new heights!
+
+![Cocktail Bliss](images/img_1.jpeg)
+![Cocktail Bliss](images/img_2.jpeg)
+![Cocktail Bliss](images/img_3.jpeg)
+![Cocktail Bliss](images/img_4.jpeg)
+![Cocktail Bliss](images/img_5.jpeg)
+
+## Features
 
 Immerse yourself in a world of beauty and elegance with our meticulously crafted interface.
 
@@ -16,16 +22,7 @@ Stay organized and never lose a recipe again with our handy bookmark section. Ma
 
 No internet? No problem! Cocktail Bliss understands the importance of unwinding and creating memorable moments anywhere, anytime.
 
-![Cocktail Bliss](images/img_1.jpeg)
-![Cocktail Bliss](images/img_2.jpeg)
-![Cocktail Bliss](images/img_3.jpeg)
-![Cocktail Bliss](images/img_4.jpeg)
-![Cocktail Bliss](images/img_5.jpeg)
-![Cocktail Bliss](images/img_6.jpeg)
-![Cocktail Bliss](images/img_7.jpeg)
-![Cocktail Bliss](images/img_8.jpeg)
-
-Credits:
+## Credits:
 
 Photos from Unsplash
 Photos from Pexels
@@ -39,6 +36,10 @@ Icon made by Vitaly Gorbachev from www.flaticon.com
 Cocktail icon by Icons8
 
 
+## Developer
 
+Cocktail Bliss is created and developed by Luis Ventura (luis.ventura005@gmail.com).
+
+Immerse yourself in the enchanting world of anime with Anime Explorer, and discover hidden gems, information, recommendations, and reviews at your fingertips.
 
 -------------------------------------------------------
